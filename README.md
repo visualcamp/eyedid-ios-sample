@@ -36,8 +36,8 @@
    pod install
    ```
 3. **Setting License Key**
-  - Obtain a license key from https://manage.eyedid.ai/ 
-  - Open the  [`ViewController.swift`](/EyedidSample/ViewController#L22) file and enter your license key:
+  - Obtain a license key from https://manage.eyedid.ai/
+  - Open the  [`ViewController.swift`](/EyedidSample/ViewController) file and enter your license key:
     ```swift
     // TODO: change licence key
     let license : String = "typo your license key"
