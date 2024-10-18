@@ -37,7 +37,7 @@
    ```
 3. **Setting License Key**
   - Obtain a license key from https://manage.eyedid.ai/
-  - Open the  [`ViewController.swift`](/EyedidSample/ViewController) file and enter your license key:
+  - Open the  [`ViewController.swift`](/EyedidSample/ViewController.swift) file and enter your license key:
     ```swift
     // TODO: change licence key
     let license : String = "typo your license key"
