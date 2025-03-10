@@ -1,16 +1,16 @@
 PODS:
-  - Eyedid (1.0.0-beta1)
+  - Eyedid (1.0.0-beta3)
 
 DEPENDENCIES:
-  - Eyedid (~> 1.0.0-beta1)
+  - Eyedid (~> 1.0.0-beta3)
 
 SPEC REPOS:
   trunk:
     - Eyedid
 
 SPEC CHECKSUMS:
-  Eyedid: 0203772cf9bc0cfa840867e2193f26226fd40a34
+  Eyedid: 43bafb462cffcef761ac5f48ee33e828456b96f1
 
-PODFILE CHECKSUM: a25d4783b3d37c19d06a489199aa1837cc24898d
+PODFILE CHECKSUM: 0c2e2a24935ed63d3e1993dcb5cfb07c1774312e
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.16.2
